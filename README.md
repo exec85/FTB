@@ -1,4 +1,4 @@
-# FUT Trdae Buddy (FTB) installation guide
+# FUT Trdae Buddy (FTB) installation guide 
 
 This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you though all settings FTB has to offer.
 
