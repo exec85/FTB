@@ -1,9 +1,11 @@
 # FTB
 
 ** Add FUT Trade Buddy to your chrome browser **
-...
+...  
 
-Follow the steps you see here:
+
+Follow the steps you see here:  
+
 ![image](https://github.com/exec85/FTB/assets/58392827/f368a160-977e-4744-a7af-bd68386cb0cf)
 
 In case you do not see HWID, Extension ID, IP and Email then please double check if you are logged in with an Email in your Chrome browser.
