@@ -1,4 +1,4 @@
-# FUT Trdae Buddy (FTB) installation guide 
+# FUT Trdae Buddy (FTB) installation guide
 
 This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you though all settings FTB has to offer.
 
@@ -21,16 +21,14 @@ After your license has been activated by exec85 or ophidias you can go ahead and
 
 ## Settings:
 
-**Coin Threshold**
+### Coin Threshold
 
 ![image](https://github.com/exec85/FTB/assets/58392827/70c20894-acbc-4e01-9717-236da954642e)
 
 Here you enter the minimum amount of coins you want to keep on your account while trading.
 For example lets assume you have 1000 coins on your account and you want the FTB to stop if your coins would dropp below 800 coins. Then you enter 800 in the Coin Threshold inpout field.
 
-\
-\
-**Auto Buyer**
+### Auto Buyer
 
 ![image](https://github.com/exec85/FTB/assets/58392827/c6976809-11ce-43ad-b1da-0df492a7d0a3)
 
@@ -73,9 +71,7 @@ Enter a number for how many searches the tool should perform before it stops or 
 
 Enter a number (minutes) how long FTB should pause after the Search Loops are done. FTB will restart with your routine after the pause is over. If you leave this field empty or set it to 0, then FTB will stopp after all search loops are done.
 
-\
-\
-**Autobidder**
+### Autobidder
 
 ![image](https://github.com/exec85/FTB/assets/58392827/01540ea3-f616-4fb1-808e-2d37596e04b1)
 
@@ -88,9 +84,7 @@ Enter the price you want to bid for om items.
 
 Add a number indicating how many search result pages the autbidder should go through. It will stop when the remaining auction time of the card is above 1 hour.
 
-\
-\
-**Transfer List**
+### Transfer List
 
 ![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
 
