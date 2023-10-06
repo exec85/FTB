@@ -96,3 +96,39 @@ If you activae this check box FTB will randomly leave the search window, goes to
 **Automatically calculate re-listing price:**
 
 If this is checked FTB will do a price calculation for each un-sold item before it gets relisted to make sure it has the bets selling price at that time. Please note taht this will not check fi you make a loss compared to your original buying price. So take care and think about if you want to set this box.
+
+### Notifications
+
+![image](https://github.com/exec85/FTB/assets/58392827/63f8bdcf-c408-4e39-bee2-029ac5dc3bb4)
+
+**Telegram:**
+
+If you want to receive notifications via Telegram regarding bought items, profits, captcha warning and so on, then enter your Telegram Chat ID here. To get this ID please add the "userinfobot" (@userinfobot) and in the chat with that userinfobot type "/start" like in the screenshot below. It answers with you personal Telegram Chat ID.
+
+![image](https://github.com/exec85/FTB/assets/58392827/4bdcb5e9-413a-4492-b838-94ed8431a380)
+
+![image](https://github.com/exec85/FTB/assets/58392827/7c69913f-1b07-4cdd-897e-68e031ce0c5c)
+
+After that copy + pase your Chat ID into the Telegram input fielt in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot with its name @ftbtelegram_bot
+
+![image](https://github.com/exec85/FTB/assets/58392827/a9e95814-3a2f-4f49-ba3a-c8bacd32b275)
+
+\
+**Discord:**
+
+If you want to receive notifications via Discord regarding bought items, profits, captcha warning and so on, then enter your Discord User ID here. To find your Discord User ID you have to activate the developer mode in Discord.
+Open the Discord settings by clicking the gear icon at the bottom left of your profile (see below).
+
+![image](https://github.com/exec85/FTB/assets/58392827/22043857-f60d-4f14-a0db-daf2d03526b9)
+
+Here you will find the option "Advanced" on the left side. Click on it and activate the developer mode on the right side (see below).
+
+![image](https://github.com/exec85/FTB/assets/58392827/a0282423-4e7b-4b9e-8bb2-44ea97dfc6f1)
+
+Afterwards you can click on your name and then click on "Copy User ID" (see below).
+
+![image](https://github.com/exec85/FTB/assets/58392827/5ae35a8a-1a4d-4ab1-86bc-82eeb0805a69)
+
+After that copy + paste your Discord User ID into the Discord input fielt in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications.
+
+![image](https://github.com/exec85/FTB/assets/58392827/e2198232-ff65-4f3d-b175-2f54cb4cfa0a)
