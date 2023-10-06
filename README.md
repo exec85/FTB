@@ -33,4 +33,8 @@ For example lets assume you have 1000 coins on your account and you want the FTB
 ![image](https://github.com/exec85/FTB/assets/58392827/c6976809-11ce-43ad-b1da-0df492a7d0a3)
 
 
-![image](https://github.com/exec85/FTB/assets/58392827/1db3f496-8840-4672-a556-638c149d823d)
+![image](https://github.com/exec85/FTB/assets/58392827/e6e7c4dd-79c4-40ed-9b02-159c96d6bcfc)
+
+![image](https://github.com/exec85/FTB/assets/58392827/c6b40dc7-c3ee-40c5-9294-38dc3be88d13)
+
+![image](https://github.com/exec85/FTB/assets/58392827/01540ea3-f616-4fb1-808e-2d37596e04b1)
