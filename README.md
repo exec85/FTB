@@ -1,4 +1,4 @@
-# FUT Trdae Buddy (FTB) installation guide
+# FUT Trade Buddy (FTB) installation guide
 
 This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you though all settings FTB has to offer. Please exactly follow this guide to make sure everything is setup correctly before you start using FTB.
 If you need any kind of support please feel free to open a support-ticket on our Discord server here: https://discord.gg/hFfmPxTn96
