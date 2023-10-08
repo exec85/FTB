@@ -1,10 +1,25 @@
-# FUT Trade Buddy (FTB) installation guide
+# FUT Trdae Buddy (FTB) installation guide
 
-This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you though all settings FTB has to offer.
+This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you though all settings FTB has to offer. Please exactly follow this guide to make sure everything is setup correctly before you start using FTB.
+If you need any kind of support please feel free to open a support-ticket on our Discord server here: https://discord.gg/hFfmPxTn96
 
 ## Add FUT Trade Buddy to your chrome browser
 
-DER TEIL FOLGT WENN DIE APP IM STORE IST
+Go to the google chrome store and search for our chrome extension like this:
+
+![image](https://github.com/exec85/FTB/assets/58392827/a090e4ef-9852-44b3-9959-0dd6ef119b3c)
+
+After that click on "Add" to add FTB to your chroem borwser
+
+![image](https://github.com/exec85/FTB/assets/58392827/462d08e0-a5c2-4fbd-a012-5b7b0a611e0a)
+
+After you click on the smnall puzzle icon in the upper right corner of your browser and pin it to have it always visible:
+
+![image](https://github.com/exec85/FTB/assets/58392827/b3b0be63-da86-4742-8c8c-0d9200f509f8)
+
+It should then look like this:
+
+![image](https://github.com/exec85/FTB/assets/58392827/98249a19-138b-482b-9c67-000972ef8bd6)
 
 ## Registering your license
 
