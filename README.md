@@ -13,7 +13,7 @@ After that click on "Add" to add FTB to your chroem borwser
 
 ![image](https://github.com/exec85/FTB/assets/58392827/462d08e0-a5c2-4fbd-a012-5b7b0a611e0a)
 
-After you click on the smnall puzzle icon in the upper right corner of your browser and pin it to have it always visible:
+After you click on the small puzzle icon in the upper right corner of your browser and pin it to have it always visible:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/b3b0be63-da86-4742-8c8c-0d9200f509f8)
 
@@ -41,7 +41,7 @@ After your license has been activated by exec85 or ophidias you can go ahead and
 ![image](https://github.com/exec85/FTB/assets/58392827/70c20894-acbc-4e01-9717-236da954642e)
 
 Here you enter the minimum amount of coins you want to keep on your account while trading.
-For example lets assume you have 1000 coins on your account and you want the FTB to stop if your coins would dropp below 800 coins. Then you enter 800 in the Coin Threshold inpout field.
+For example lets assume you have 1000 coins on your account and you want the FTB to stop if your coins would dropp below 800 coins. Then you enter 800 in the Coin Threshold input field.
 
 ### Auto Buyer
 
@@ -59,7 +59,7 @@ Checking this box will cause FTB to only buy the item and put it on the transfer
 \
 **Playername + Rating:**
 
-This is used if you want to buy a specific player. Inside the EA WebApp copy the player name and paste it into the input field Player Name in the FTB settings.
+This is used if you want to buy a specific player. Copy the player name from the EA WebApp and paste it into the input field Player Name in the FTB settings to ensure you've written it correctly and 100% accurate as it's in the WebApp.
 The rating must be the general rating of that player which you also find inside the WebApp when you look up the correct name (see screenshot below).
 
 ![image](https://github.com/exec85/FTB/assets/58392827/c6b40dc7-c3ee-40c5-9294-38dc3be88d13)
@@ -74,17 +74,19 @@ If you want to set your own selling price you can enter it here. FTB will then s
 
 You can choose between the following speed options (enter 1,2 or 3):
 
-1 = slow, 2 = normal, 3 = fast
+1 = slow
+2 = normal
+3 = fast
 
 \
 **Search Loops:**
 
-Enter a number for how many searches the tool should perform before it stops or goes into pause.
+Enter a number for how many searches FTB should perform before it stops or pauses.
 
 \
 **Pause:**
 
-Enter a number (minutes) how long FTB should pause after the Search Loops are done. FTB will restart with your routine after the pause is over. If you leave this field empty or set it to 0, then FTB will stopp after all search loops are done.
+Enter a number (minutes) how long FTB should pause after the given search loops. FTB will restart with it's routine after the pause is over. If you leave this field empty or set it to 0, FTB will stopp after all search loops are done.
 
 ### Autobidder
 
@@ -97,20 +99,20 @@ Enter the price you want to bid for om items.
 \
 **Pages to scan:**
 
-Add a number indicating how many search result pages the autbidder should go through. It will stop when the remaining auction time of the card is above 1 hour.
+Add a number indicating how many search result pages the autobidder should go through. It will stop when the remaining auction time of the card is above 1 hour.
 
 ### Transfer List
 
 ![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
 
-**Include transfer list clearing and relisting in Auto-Buyer routine?:**
+**Include transfer list clearing and relisting in Auto-Buyer routine:**
 
-If you activae this check box FTB will randomly leave the search window, goes to the transfer list window and clears all sold items as well as relists all un-sold items. After that it goes back to the search window and restarts your routine. is can be useful if you want to make sure you transfer list is not getting full while running long sessions.
+If you activate this check box FTB will randomly exit the search window, opens the transfer list window and clears all sold items and relists all unsold items. After that it goes back to the search window and restarts your routine. This can be useful if you want to make sure your transfer list is not full while running long sessions.
 
 \
 **Automatically calculate re-listing price:**
 
-If this is checked FTB will do a price calculation for each un-sold item before it gets relisted to make sure it has the bets selling price at that time. Please note taht this will not check fi you make a loss compared to your original buying price. So take care and think about if you want to set this box.
+If this is checked FTB will do a price calculation for each unsold item before it gets relisted to make sure it has the best selling price at that time. Please note that this will not check if you make a loss compared to your original buying price. So take care and think about if you want to set this box.
 
 ### Notifications
 
@@ -118,20 +120,20 @@ If this is checked FTB will do a price calculation for each un-sold item before 
 
 **Telegram:**
 
-If you want to receive notifications via Telegram regarding bought items, profits, captcha warning and so on, then enter your Telegram Chat ID here. To get this ID please add the "userinfobot" (@userinfobot) and in the chat with that userinfobot type "/start" like in the screenshot below. It answers with you personal Telegram Chat ID.
+If you want to receive notifications via Telegram about bought items, profits, captcha warnings and so on, enter your Telegram Chat ID here. To get this ID please add the "userinfobot" (@userinfobot) and in the chat with that userinfobot type "/start" as you see in the screenshot below. It answers with your personal Telegram Chat ID.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/4bdcb5e9-413a-4492-b838-94ed8431a380)
 
 ![image](https://github.com/exec85/FTB/assets/58392827/7c69913f-1b07-4cdd-897e-68e031ce0c5c)
 
-After that copy + pase your Chat ID into the Telegram input fielt in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot with its name @ftbtelegram_bot
+After that copy and paste your Telegram Chat ID into the Telegram input field in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot with its name @ftbtelegram_bot
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a9e95814-3a2f-4f49-ba3a-c8bacd32b275)
 
 \
 **Discord:**
 
-If you want to receive notifications via Discord regarding bought items, profits, captcha warning and so on, then enter your Discord User ID here. To find your Discord User ID you have to activate the developer mode in Discord.
+If you want to receive notifications via Discord about bought items, profits, captcha warnings and so on, then enter your Discord User ID here. To find your Discord User ID you have to activate the developer mode in Discord.
 Open the Discord settings by clicking the gear icon at the bottom left of your profile (see below).
 
 ![image](https://github.com/exec85/FTB/assets/58392827/22043857-f60d-4f14-a0db-daf2d03526b9)
@@ -144,6 +146,6 @@ Afterwards you can click on your name and then click on "Copy User ID" (see belo
 
 ![image](https://github.com/exec85/FTB/assets/58392827/5ae35a8a-1a4d-4ab1-86bc-82eeb0805a69)
 
-After that copy + paste your Discord User ID into the Discord input fielt in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications.
+After that copy and paste your Discord User ID into the Discord input field in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e2198232-ff65-4f3d-b175-2f54cb4cfa0a)
