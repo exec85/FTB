@@ -97,7 +97,7 @@ Enter the price you want to bid for om items.
 \
 **Pages to scan:**
 
-Add a number indicating how many search result pages the autbidder should go through. It will stop when the remaining auction time of the card is above 1 hour.
+Add a number indicating how many search result pages the Autbidder should go through. It will stop when the remaining auction time of the card is above 1 hour.
 
 ### Transfer List
 
@@ -152,9 +152,9 @@ After that copy + paste your Discord User ID into the Discord input field in the
 
 ![image](https://github.com/exec85/FTB/assets/58392827/db1b53f6-7ff5-4a53-bf9c-bc80fca58ce1)
 
-In this example I want to search for all Gold - Rare players in the Premier League that have the nationality "Brazil" and play on position "Attackers". I only want to buy players with a max. price of 700 coin so I have put that also in the filter.
+In this example I want to search for all Gold - Rare players in the Premier League that have the nationality "Brazil" and play on position "Attackers". I only want to buy players with a max. price of 700 coins, so I have put that also in the filter.
 
-This is an example of a gerneral search filter which you can adapt to all kind of filters you prefer. Always make sure that you check the max. buy price before you enter a value there.
+This is an example of a general search filter which you can adapt to all kind of filters you prefer. Always make sure that you check the max. buy price before you enter a value there.
 
 In the FTB settings you have also several options. I have prepared one set of settings that I recommend using for a normal session of 4-6 hours.
 
@@ -168,30 +168,32 @@ In this example I want to search for a specific player. As explained above in th
 
 ![image](https://github.com/exec85/FTB/assets/58392827/28e2ceb4-990f-4b20-8a37-387b322efb7b)
 
-If you want to search for an inform version of the card then you have to choose the right one from the "Rarity" filter option inside the WebApp for example "Team of the Week".
+If you want to search for an inform version of the card, then you must choose the right one from the "Rarity" filter option inside the WebApp for example "Team of the Week".
 Also, remember to put in the desired max buy price into the WebApp filter.
 
 ## Example 3 - Consumable search
 
-In this example I want to search for the consumable "SHADOW". So inside the webapp I choose the desired filter and I make my settings in FTB, for example like this:
+In this example I want to search for the consumable "SHADOW". So, inside the webapp I choose the desired filter and I make my settings in FTB, for example like this:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/9b6804a3-8166-4bd3-bf21-9a1c38e0136d)
 
-In this case I do not want to to let FTB calculate the selling price, so instead I put in a Sell Price into the FTB settings like this:
+In this case I do not want to let FTB calculate the selling price, so instead I put in a Sell Price into the FTB settings like this:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/4bc37fff-d1b4-416c-9b38-b8bd16b01738)
 
 Of course, if you want, you can also here let FTB calculate the best price.
-In general we recommend to use the "Auto-calculate selling price" feature because it will notice when you would make a loss with your filters and stops immediately. So it also protects your coins.
+In general, we recommend using the "Auto-calculate selling price" feature because it will notice when you would make a loss with your filters and stops immediately. So, it also protects your coins.
 
 ## Example 4 - Autobidder
 
-To set up the Autobidder in the FTB settings simply enter the max. bid price you want to bid on a card and enter the amount of pages FTB should scan. Remember, FTB will stop if the remaining duration of an auction is > 1 Hour.
+To set up the Autobidder in the FTB settings simply enter the max. bid price you want to bid on a card and enter the number of pages FTB should scan. Remember, FTB will stop if the remaining duration of an auction is > 1 Hour.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/0033a0d9-c120-4dc7-9a57-e1bde57f5ecd)
 
 Inside the WebApp simply choose your filter.
-ATTENTION: If you want to search for a specific player then you have to add the player directly in the WebApp this time.
-You not have to put any price values inside the WebApp for the Autobidder, but you can if you want to set a specific price range. This also works for all consumables the same way.
+ATTENTION: If you want to search for a specific player then you must add the player directly in the WebApp this time.
+You do not have to put any price values inside the WebApp for the Autobidder, but you can if you want to set a specific price range. This also works for all consumables the same way.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/0ae4cf07-0f89-4035-a7c2-e15a63b9019d)
+
+
