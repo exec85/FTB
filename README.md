@@ -1,7 +1,7 @@
 # FUT Trade Buddy (FTB) installation guide
 
 This installation guide will help you setting up our FUT Trade Buddy Chrome Extension and will guide you through all settings FTB has to offer. Please exactly follow this guide to make sure everything is setup correctly before you start using FTB.
-If you need any kind of support, please feel free to open a support-ticket on our Discord server here: https://discord.gg/hFfmPxTn96
+If you need any kind of support, please feel free to open a support ticket on our Discord server: https://discord.gg/hFfmPxTn96
 
 ## Index
 
@@ -18,19 +18,19 @@ If you need any kind of support, please feel free to open a support-ticket on ou
 <font size="2"> [Back to Index](#index)
 </font>
 
-Go to the google chrome store and search for our chrome extension like this:
+In Google Chrome Store search for our extension:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a090e4ef-9852-44b3-9959-0dd6ef119b3c)
 
-After that click on "Add" to add FTB to your chrome browser
+Click on "Add" to add FTB to your Google Chrome browser
 
 ![image](https://github.com/exec85/FTB/assets/58392827/462d08e0-a5c2-4fbd-a012-5b7b0a611e0a)
 
-After you click on the small puzzle icon in the upper right corner of your browser and pin it to have it always visible:
+Click on the small puzzle icon in the upper right corner in Google Chrome and pin it:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/b3b0be63-da86-4742-8c8c-0d9200f509f8)
 
-It should then look like this:
+It should look like this:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/98249a19-138b-482b-9c67-000972ef8bd6)
 
@@ -39,16 +39,16 @@ It should then look like this:
 <font size="2"> [Back to Index](#index)
 </font>
 
-Follow the steps you see when you click on the FTB chrome extension button:
+Follow the steps you see when you click on the FTB Google Chrome extension button:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/f368a160-977e-4744-a7af-bd68386cb0cf)
 
-In case you do not see HWID, Extension ID, IP and Email then please double check if you are logged in with an Email in your Chrome browser.
-Also make sure that Synchronization is active like you see here:
+In case you do not see HWID, Extension ID, IP and Email please double check if you are logged in with an email in your Google Chrome browser.
+Also make sure that "Synchronization" is active:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e84ac3d0-6096-4c05-9583-2b834366e5f1)
 
-After your license has been activated by exec85 or ophidias you can go ahead and use FTB.
+After your license has been activated by exec85 or ophidias you are ready to use FUT Trade Buddy.
 
 ## Settings:
 
@@ -59,8 +59,8 @@ After your license has been activated by exec85 or ophidias you can go ahead and
 
 ![image](https://github.com/exec85/FTB/assets/58392827/70c20894-acbc-4e01-9717-236da954642e)
 
-Here you enter the minimum number of coins you want to keep on your account while trading.
-For example, let us assume you have 1000 coins on your account, and you want the FTB to stop if your coins would drop below 800 coins. Then you enter 800 in the Coin Threshold input field.
+Enter the minimum number of coins you want to keep on your account while trading.
+For example you have 1000 coins on your account, and you want FTB to stop if your coins would drop below 800 coins. Then you enter 800 in the "Coin Threshold" input field.
 
 ### Auto Buyer
 
@@ -68,25 +68,25 @@ For example, let us assume you have 1000 coins on your account, and you want the
 
 **Auto-calculate selling price:**
 
-Checking this box will cause FTB to do a price calculation of the item you bought and put in on the market for the best price. This overrides the value in the Sell Price input field. FTB would also automatically stop in case you would make loss.
+Checking this box will cause FTB to do a price calculation of the item you bought and put in on the market for the best price. This overrides the value in the Sell Price input field, so it's either auto-calculated or fixed price. FTB automatically stops in case you would make loss.
 
 \
 **Buy only:**
 
-Checking this box will cause FTB to only buy the item and put it on the transfer list but it will not sell it.
+Checking this box will cause FTB to only buy the item and put it on the transfer list without selling it.
 
 \
 **Playername + Rating:**
 
-This is used if you want to buy a specific player. Inside the EA WebApp copy the player’s name and paste it into the input field Player Name in the FTB settings.
-The rating must be the general rating of that player which you also find inside the WebApp when you look up the correct name (see screenshot below).
+Used if you want to buy a specific player. Inside the EA Web App copy the player’s name and paste it into the input field "Player Name" on the FTB "Settings" tab.
+The rating must be the general rating of that player which you also find inside the Web App when you look up the correct name:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/c6b40dc7-c3ee-40c5-9294-38dc3be88d13)
 
 \
 **Sell Price:**
 
-If you want to set your own selling price you can enter it here. FTB will then sell the bought items for that exact price.
+If you want to set your own custom selling price you can enter it here. FTB will list the bought items for that exact price on the transfer market.
 
 \
 **Speed:**
