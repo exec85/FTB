@@ -164,7 +164,7 @@ In the FTB settings you have also several options. I have prepared one set of se
 
 ![image](https://github.com/exec85/FTB/assets/58392827/180f14ce-f7de-4c3d-9420-dd6db7da781b)
 
-In this example I want to search for a specific player. As explained above in the Settings section, you must copy the player's name and the general rating of the card from the WebApp into the FTB settings. In this Case "Sheraldo Becker" wit the rating "78" like this:
+In this example I want to search for a specific player. As explained above in the Settings section, you must copy the player's name and the general rating of the card from the WebApp into the FTB settings. In this Case "Sheraldo Becker" with the rating "78" like this:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/28e2ceb4-990f-4b20-8a37-387b322efb7b)
 
