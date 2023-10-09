@@ -22,7 +22,7 @@ In Google Chrome Store search for our extension:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a090e4ef-9852-44b3-9959-0dd6ef119b3c)
 
-Click on "Add" to add FTB to your Google Chrome browser
+Click on "Add" to add FTB to your Google Chrome browser:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/462d08e0-a5c2-4fbd-a012-5b7b0a611e0a)
 
@@ -39,12 +39,12 @@ It should look like this:
 <font size="2"> [Back to Index](#index)
 </font>
 
-Follow the steps you see when you click on the FTB Google Chrome extension button:
+Follow the steps you see when you click on the FTB Google Chrome extension button
 
 ![image](https://github.com/exec85/FTB/assets/58392827/f368a160-977e-4744-a7af-bd68386cb0cf)
 
 In case you do not see HWID, Extension ID, IP and Email please double check if you are logged in with an email in your Google Chrome browser.
-Also make sure that "Synchronization" is active:
+Also make sure that "Synchronization" is active
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e84ac3d0-6096-4c05-9583-2b834366e5f1)
 
@@ -122,12 +122,12 @@ Add a number indicating how many search result pages the autbidder should go thr
 
 ![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
 
-**Include transfer list clearing and relisting in Auto-Buyer routine?:**
+**Include transfer list clearing and relisting in Auto-Buyer routine?**
 
 If you activate this check box FTB will randomly leave the search window, goes to the transfer list window and clears all sold items as well as relists all un-sold items. After that it goes back to the search window and restarts your routine. This can be useful if you want to make sure you transfer list is not getting full while running long sessions.
 
 \
-**Automatically calculate re-listing price:**
+**Automatically calculate re-listing price**
 
 If this is checked FTB will do a price calculation for each un-sold item before it gets relisted to make sure it has the best-selling price at that time. Please note that this will not check if you make a loss compared to your original buying price. So, take care and think about if you want to set this box.
 
@@ -135,7 +135,7 @@ If this is checked FTB will do a price calculation for each un-sold item before 
 
 ![image](https://github.com/exec85/FTB/assets/58392827/63f8bdcf-c408-4e39-bee2-029ac5dc3bb4)
 
-**Telegram:**
+**Telegram**
 
 If you want to receive notifications via Telegram regarding bought items, profits, captcha warning and so on, then enter your Telegram Chat ID here. To get this ID please add the "userinfobot" (@userinfobot) and in the chat with that userinfobot type "/start" like in the screenshot below. It answers with your personal Telegram Chat ID.
 
@@ -143,27 +143,27 @@ If you want to receive notifications via Telegram regarding bought items, profit
 
 ![image](https://github.com/exec85/FTB/assets/58392827/7c69913f-1b07-4cdd-897e-68e031ce0c5c)
 
-After that copy + paste your Chat ID into the Telegram input field in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot with its name @ftbtelegram_bot
+After that copy + paste your Chat ID into the Telegram input field in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot by @ftbtelegram_bot
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a9e95814-3a2f-4f49-ba3a-c8bacd32b275)
 
 \
-**Discord:**
+**Discord**
 
 If you want to receive notifications via Discord regarding bought items, profits, captcha warning and so on, then enter your Discord User ID here. To find your Discord User ID you must activate the developer mode in Discord.
-Open the Discord settings by clicking the gear icon at the bottom left of your profile (see below).
+Open the Discord settings by clicking the gear icon at the bottom left of your profile:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/22043857-f60d-4f14-a0db-daf2d03526b9)
 
-Here you will find the option "Advanced" on the left side. Click on it and activate the developer mode on the right side (see below).
+Here you will find the option "Advanced" on the left side. Click on it and activate the developer mode on the right side:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a0282423-4e7b-4b9e-8bb2-44ea97dfc6f1)
 
-Afterwards you can click on your name and then click on "Copy User ID" (see below).
+Afterwards you can click on your name and then click on "Copy User ID":
 
 ![image](https://github.com/exec85/FTB/assets/58392827/5ae35a8a-1a4d-4ab1-86bc-82eeb0805a69)
 
-After that copy + paste your Discord User ID into the Discord input field in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications.
+After that copy + paste your Discord User ID into the Discord input field in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e2198232-ff65-4f3d-b175-2f54cb4cfa0a)
 
@@ -178,7 +178,7 @@ In this example I want to search for all Gold - Rare players in the Premier Leag
 
 This is an example of a gerneral search filter which you can adapt to all kind of filters you prefer. Always make sure that you check the max. buy price before you enter a value there.
 
-In the FTB settings you have also several options. I have prepared one set of settings that I recommend using for a normal session of 4-6 hours.
+In the FTB settings you have several options. I have prepared one set of settings that I recommend using for a normal session of 4-6 hours.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/8ad15230-e58b-4f76-a8eb-b91d3de85800)
 
