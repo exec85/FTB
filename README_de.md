@@ -43,7 +43,7 @@ Folge den Schritten, die du siehst, wenn du auf die Schaltfläche der FTB-Chrome
 ![image](https://github.com/exec85/FTB/assets/58392827/f368a160-977e-4744-a7af-bd68386cb0cf)
 
 Falls du HWID, Extension ID, IP und Email nicht siehst, überprüfe bitte, ob du mit einer Email in deinem Chrome-Browser eingeloggt bist.
-Stelle außerdem sicher, dass die Synchronisierung aktiv ist, wie hier zu sehen:
+Stelle außerdem sicher, dass die Synchronisierung aktiv ist und starte dann Chrome einmal neu:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e84ac3d0-6096-4c05-9583-2b834366e5f1)
 
