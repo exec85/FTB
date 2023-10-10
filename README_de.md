@@ -4,13 +4,13 @@ Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension 
 
 ## Index
 
-- [Add FUT Trade Buddy to your chrome browser](#add-fut-trade-buddy-to-your-chrome-browser)
-- [Registering your license](#registering-your-license)
-- [FTB Settings](#settings)
-- [Example 1 - General filter search](#example-1---general-filter-search)
-- [Example 2 - Specific player search](#example-2---specific-player-search)
-- [Example 3 - Consumable search](#example-3---consumable-search)
-- [Example 4 - Autobidder](#example-4---autobidder)
+- [FUT Trade Buddy zu deinem Chrome-Browser hinzufügen](#-FUT-Trade-Buddy-zu-deinem-Chrome-Browser-hinzufügen)
+- [Lizenz registrieren](#Lizenz-registrieren)
+- [FTB Einstellungen](#FTB-Einstellungen)
+- [Beispiel 1 - Allgemeine Filtersuche](##-Beispiel-1---Allgemeine-Filtersuche)
+- [Beispiel 2 - Spezifische Spielersuche](##-Beispiel-2---Spezifische-Spielersuche)
+- [Beispiel 3 - Suche nach Verbrauchsmaterial](##-Beispiel-3---Suche-nach-Verbrauchsmaterial)
+- [Beispiel 4 - Auto-Bieter](##-Beispiel-4---Auto-Bieter)
 
 ## FUT Trade Buddy zu deinem Chrome-Browser hinzufügen
 
@@ -33,7 +33,7 @@ Es sollte dann wie folgt aussehen:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/98249a19-138b-482b-9c67-000972ef8bd6)
 
-## Registrierung der Lizenz
+## Lizenz registrieren
 
 <font size="2"> [Back to Index](#index)
 </font>
@@ -166,7 +166,7 @@ Danach kopierst du deine Discord-Benutzer-ID und fügst sie in das Discord-Einga
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e2198232-ff65-4f3d-b175-2f54cb4cfa0a)
 
-## Example 1 - General filter search
+## Beispiel 1 - Allgemeine Filtersuche
 
 <font size="2"> [Back to Index](#index)
 </font>
@@ -181,7 +181,7 @@ In den FTB-Einstellungen haben Sie ebenfalls mehrere Optionen. Ich habe eine Rei
 
 ![image](https://github.com/exec85/FTB/assets/58392827/8ad15230-e58b-4f76-a8eb-b91d3de85800)
 
-## Example 2 - Specific player search
+## Beispiel 2 - Spezifische Spielersuche
 
 <font size="2"> [Back to Index](#index)
 </font>
@@ -195,7 +195,7 @@ In diesem Beispiel möchte ich nach einem bestimmten Spieler suchen. Wie oben im
 Wenn Sie nach einer informierten Version der Karte suchen möchten, müssen Sie die richtige aus der Filteroption "Seltenheit" in der WebApp auswählen, zum Beispiel "Team der Woche".
 Denken Sie auch daran, den gewünschten maximalen Kaufpreis in den WebApp-Filter einzugeben.
 
-## Example 3 - Consumable search
+## Beispiel 3 - Suche nach Verbrauchsmaterial
 
 <font size="2"> [Back to Index](#index)
 </font>
@@ -211,7 +211,7 @@ In diesem Fall möchte ich nicht, dass FTB den Verkaufspreis berechnet, also geb
 Wenn Sie möchten, können Sie natürlich auch hier FTB den besten Preis berechnen lassen.
 Generell empfehlen wir Ihnen, die Funktion "Automatischer Verkaufspreis" zu nutzen, da diese erkennt, wenn Sie mit Ihren Filtern einen Verlust machen würden und sofort stoppt. So schützt es auch Ihre Münzen.
 
-## Example 4 - Autobidder
+## Beispiel 4 - Auto-Bieter
 
 <font size="2"> [Back to Index](#index)
 </font>
