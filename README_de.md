@@ -1,4 +1,4 @@
-# FUT Trade Buddy (FTB) installation guide
+# FUT Trade Buddy (FTB) Installationsanleitung
 
 Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension einzurichten und führt dich durch alle Einstellungen, die FTB zu bieten hat. Bitte folge dieser Anleitung genau, um sicherzustellen, dass alles korrekt eingerichtet ist, bevor du FTB benutzt. Wenn du irgendeine Art von Unterstützung benötigst, kannst du gerne ein Support-Ticket auf unserem Discord-Server hier öffnen: https://discord.gg/hFfmPxTn96
 
@@ -117,18 +117,18 @@ Bitte gib den Preis ein, den du für alle Artikel bieten möchtest.
 
 Füge eine Zahl hinzu, die angibt, wie viele Suchergebnisseiten der automatische Bieter durchlaufen soll. Der Vorgang wird abgebrochen, wenn die verbleibende Auktionszeit der Karte mehr als 1 Stunde beträgt.
 
-### Transfer List
+### Transfer Liste
 
 ![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
 
 **Include transfer list clearing and relisting in Auto-Buyer routine?:**
 
-If you activate this check box FTB will randomly leave the search window, goes to the transfer list window and clears all sold items as well as relists all un-sold items. After that it goes back to the search window and restarts your routine. This can be useful if you want to make sure you transfer list is not getting full while running long sessions.
+Wenn Sie dieses Kontrollkästchen aktivieren, verlässt FTB nach dem Zufallsprinzip das Suchfenster, wechselt in das Transferlistenfenster und löscht alle verkauften Artikel und listet alle unverkauften Artikel neu auf. Danach kehrt FTB zum Suchfenster zurück und beginnt erneut mit Ihrer Routine. Dies kann nützlich sein, wenn Sie sicherstellen wollen, dass Ihre Transferliste nicht voll wird, während Sie lange Sitzungen durchführen.
 
 \
 **Automatically calculate re-listing price:**
 
-If this is checked FTB will do a price calculation for each un-sold item before it gets relisted to make sure it has the best-selling price at that time. Please note that this will not check if you make a loss compared to your original buying price. So, take care and think about if you want to set this box.
+Wenn diese Option aktiviert ist, führt FTB eine Preisberechnung für jeden unverkauften Artikel durch, bevor er wieder eingestellt wird, um sicherzustellen, dass er den zu diesem Zeitpunkt besten Verkaufspreis hat. Bitte beachten Sie, dass dabei nicht geprüft wird, ob Sie einen Verlust im Vergleich zu Ihrem ursprünglichen Einkaufspreis machen. Überlegen Sie sich also gut, ob Sie dieses Kästchen aktivieren wollen.
 
 ### Notifications
 
@@ -136,33 +136,33 @@ If this is checked FTB will do a price calculation for each un-sold item before 
 
 **Telegram:**
 
-If you want to receive notifications via Telegram regarding bought items, profits, captcha warning and so on, then enter your Telegram Chat ID here. To get this ID please add the "userinfobot" (@userinfobot) and in the chat with that userinfobot type "/start" like in the screenshot below. It answers with your personal Telegram Chat ID.
+Wenn Sie Benachrichtigungen über gekaufte Artikel, Gewinne, Captcha-Warnungen usw. über Telegram erhalten möchten, geben Sie hier Ihre Telegram-Chat-ID ein. Um diese ID zu erhalten, fügen Sie bitte den "userinfobot" (@userinfobot) hinzu und geben im Chat mit diesem userinfobot "/start" ein, wie im Screenshot unten. Er antwortet mit Ihrer persönlichen Telegram Chat ID.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/4bdcb5e9-413a-4492-b838-94ed8431a380)
 
 ![image](https://github.com/exec85/FTB/assets/58392827/7c69913f-1b07-4cdd-897e-68e031ce0c5c)
 
-After that copy + paste your Chat ID into the Telegram input field in the FTB notifications settings. Please now add our Telegram FTB BOT and send it any message to activate the chat. You find our FTB Telegram bot with its name @ftbtelegram_bot
+Danach kopierst Du Deine Chat-ID und fügst sie in das Telegram-Eingabefeld in den FTB-Benachrichtigungseinstellungen ein. Bitte füge nun unseren Telegram FTB BOT hinzu und sende ihm eine beliebige Nachricht, um den Chat zu aktivieren. Sie finden unseren FTB Telegram-Bot unter dem Namen @ftbtelegram_bot
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a9e95814-3a2f-4f49-ba3a-c8bacd32b275)
 
 \
 **Discord:**
 
-If you want to receive notifications via Discord regarding bought items, profits, captcha warning and so on, then enter your Discord User ID here. To find your Discord User ID you must activate the developer mode in Discord.
-Open the Discord settings by clicking the gear icon at the bottom left of your profile (see below).
+Wenn Sie über Discord Benachrichtigungen über gekaufte Gegenstände, Gewinne, Captcha-Warnungen usw. erhalten möchten, dann geben Sie hier Ihre Discord-Benutzer-ID ein. Um Ihre Discord-Benutzer-ID zu finden, müssen Sie den Entwicklermodus in Discord aktivieren.
+Öffnen Sie die Discord-Einstellungen, indem Sie auf das Zahnradsymbol unten links in Ihrem Profil klicken:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/22043857-f60d-4f14-a0db-daf2d03526b9)
 
-Here you will find the option "Advanced" on the left side. Click on it and activate the developer mode on the right side (see below).
+Hier finden Sie auf der linken Seite die Option "Erweitert". Klicken Sie darauf und aktivieren Sie den Entwicklermodus auf der rechten Seite:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/a0282423-4e7b-4b9e-8bb2-44ea97dfc6f1)
 
-Afterwards you can click on your name and then click on "Copy User ID" (see below).
+Danach können Sie auf Ihren Namen und dann auf "Benutzer-ID kopieren" klicken:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/5ae35a8a-1a4d-4ab1-86bc-82eeb0805a69)
 
-After that copy + paste your Discord User ID into the Discord input field in the FTB notifications settings. Please now start a chat with our "FTB BOT" on Discord to receive all notifications.
+Danach kopierst du deine Discord-Benutzer-ID und fügst sie in das Discord-Eingabefeld in den FTB-Benachrichtigungseinstellungen ein. Bitte starten Sie nun einen Chat mit unserem "FTB BOT" auf Discord, um alle Benachrichtigungen zu erhalten.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e2198232-ff65-4f3d-b175-2f54cb4cfa0a)
 
@@ -173,11 +173,11 @@ After that copy + paste your Discord User ID into the Discord input field in the
 
 ![image](https://github.com/exec85/FTB/assets/58392827/db1b53f6-7ff5-4a53-bf9c-bc80fca58ce1)
 
-In this example I want to search for all Gold - Rare players in the Premier League that have the nationality "Brazil" and play on position "Attackers". I only want to buy players with a max. price of 700 coin so I have put that also in the filter.
+In diesem Beispiel möchte ich nach allen Gold - Rare Spielern in der Premier League suchen, die die Nationalität "Brasilien" haben und auf der Position "Angreifer" spielen. Ich möchte nur Spieler mit einem maximalen Preis von 700 Münzen kaufen, also habe ich das auch in den Filter geschrieben.
 
-This is an example of a gerneral search filter which you can adapt to all kind of filters you prefer. Always make sure that you check the max. buy price before you enter a value there.
+Dies ist ein Beispiel für einen allgemeinen Suchfilter, den Sie an alle Arten von Filtern anpassen können, die Sie bevorzugen. Achten Sie immer darauf, dass Sie den maximalen Kaufpreis überprüfen, bevor Sie einen Wert eingeben.
 
-In the FTB settings you have also several options. I have prepared one set of settings that I recommend using for a normal session of 4-6 hours.
+In den FTB-Einstellungen haben Sie ebenfalls mehrere Optionen. Ich habe eine Reihe von Einstellungen vorbereitet, die ich für eine normale Sitzung von 4-6 Stunden empfehle.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/8ad15230-e58b-4f76-a8eb-b91d3de85800)
 
@@ -188,40 +188,40 @@ In the FTB settings you have also several options. I have prepared one set of se
 
 ![image](https://github.com/exec85/FTB/assets/58392827/180f14ce-f7de-4c3d-9420-dd6db7da781b)
 
-In this example I want to search for a specific player. As explained above in the Settings section, you must copy the player's name and the general rating of the card from the WebApp into the FTB settings. In this Case "Sheraldo Becker" with the rating "78" like this:
+In diesem Beispiel möchte ich nach einem bestimmten Spieler suchen. Wie oben im Abschnitt Einstellungen erklärt, müssen Sie den Namen des Spielers und die allgemeine Bewertung der Karte aus der WebApp in die FTB-Einstellungen kopieren. In diesem Fall "Sheraldo Becker" mit der Bewertung "78" wie folgt:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/28e2ceb4-990f-4b20-8a37-387b322efb7b)
 
-If you want to search for an inform version of the card then you have to choose the right one from the "Rarity" filter option inside the WebApp for example "Team of the Week".
-Also, remember to put in the desired max buy price into the WebApp filter.
+Wenn Sie nach einer informierten Version der Karte suchen möchten, müssen Sie die richtige aus der Filteroption "Seltenheit" in der WebApp auswählen, zum Beispiel "Team der Woche".
+Denken Sie auch daran, den gewünschten maximalen Kaufpreis in den WebApp-Filter einzugeben.
 
 ## Example 3 - Consumable search
 
 <font size="2"> [Back to Index](#index)
 </font>
 
-In this example I want to search for the consumable "SHADOW". So inside the webapp I choose the desired filter and I make my settings in FTB, for example like this:
+In diesem Beispiel möchte ich nach dem Verbrauchsmaterial "SHADOW" suchen. In der Webapp wähle ich also den gewünschten Filter und nehme meine Einstellungen in FTB vor, zum Beispiel so:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/9b6804a3-8166-4bd3-bf21-9a1c38e0136d)
 
-In this case I do not want to to let FTB calculate the selling price, so instead I put in a Sell Price into the FTB settings like this:
+In diesem Fall möchte ich nicht, dass FTB den Verkaufspreis berechnet, also gebe ich stattdessen einen Verkaufspreis in den FTB-Einstellungen wie folgt ein:
 
 ![image](https://github.com/exec85/FTB/assets/58392827/4bc37fff-d1b4-416c-9b38-b8bd16b01738)
 
-Of course, if you want, you can also here let FTB calculate the best price.
-In general we recommend to use the "Auto-calculate selling price" feature because it will notice when you would make a loss with your filters and stops immediately. So it also protects your coins.
+Wenn Sie möchten, können Sie natürlich auch hier FTB den besten Preis berechnen lassen.
+Generell empfehlen wir Ihnen, die Funktion "Automatischer Verkaufspreis" zu nutzen, da diese erkennt, wenn Sie mit Ihren Filtern einen Verlust machen würden und sofort stoppt. So schützt es auch Ihre Münzen.
 
 ## Example 4 - Autobidder
 
 <font size="2"> [Back to Index](#index)
 </font>
 
-To set up the Autobidder in the FTB settings simply enter the max. bid price you want to bid on a card and enter the amount of pages FTB should scan. Remember, FTB will stop if the remaining duration of an auction is > 1 Hour.
+Um den Autobidder in den FTB-Einstellungen einzurichten, geben Sie einfach den maximalen Gebotspreis ein, den Sie auf eine Karte bieten möchten, und geben Sie die Anzahl der Seiten ein, die FTB scannen soll. Denken Sie daran, dass FTB stoppt, wenn die verbleibende Dauer einer Auktion > 1 Stunde ist.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/0033a0d9-c120-4dc7-9a57-e1bde57f5ecd)
 
-Inside the WebApp simply choose your filter.
-ATTENTION: If you want to search for a specific player then you have to add the player directly in the WebApp this time.
-You not have to put any price values inside the WebApp for the Autobidder, but you can if you want to set a specific price range. This also works for all consumables the same way.
+Wählen Sie innerhalb der WebApp einfach Ihren Filter aus.
+ACHTUNG: Wenn Sie nach einem bestimmten Spieler suchen möchten, müssen Sie den Spieler diesmal direkt in der WebApp hinzufügen.
+Sie müssen in der WebApp für den Autobidder keine Preiswerte eingeben, können dies aber tun, wenn Sie eine bestimmte Preisspanne festlegen möchten. Dies funktioniert auch für alle Verbrauchsmaterialien auf die gleiche Weise.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/0ae4cf07-0f89-4035-a7c2-e15a63b9019d)
