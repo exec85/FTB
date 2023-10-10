@@ -10,7 +10,7 @@ Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension 
 - [Beispiel 1 - Allgemeine Filtersuche](#beispiel-1---allgemeine-filtersuche)
 - [Beispiel 2 - Spezifische Spielersuche](#beispiel-2---spezifische-spielersuche)
 - [Beispiel 3 - Suche nach Verbrauchsmaterial](#beispiel-3---suche-nach-verbrauchsmaterial)
-- [Beispiel 4 - Auto-Bieter](#beispiel-4---auto-bieter)
+- [Beispiel 4 - Auto-Bieter](#beispiel-4---auto---bieter)
 
 ## FUT Trade Buddy zu deinem Chrome-Browser hinzufügen
 
