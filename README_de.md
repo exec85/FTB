@@ -66,37 +66,37 @@ Nehmen wir zum Beispiel an, du hast 1000 Münzen auf deinem Konto und du möchte
 ![image](https://github.com/exec85/FTB/assets/58392827/21c5eae4-9136-403b-9e42-3296c0a77aef)
 
 
-**Auto-calculate selling price:**
+**Verkaufspreis automatisch berechnen:**
 
 Wenn Du dieses Kästchen anklickst, führt FTB eine Preisberechnung für den Artikel durch, den Du gekauft und zum besten Preis auf den Markt gebracht hast. Dadurch wird der Wert im Eingabefeld Verkaufspreis außer Kraft gesetzt. FTB würde auch automatisch stoppen, wenn du einen Verlust machen würdest.
 
 \
-**Buy only:**
+**Nur Kaufen:**
 
 Wenn du dieses Kästchen anklickst, kauft FTB den Artikel nur und setzt ihn auf die Transferliste, verkauft ihn aber nicht.
 
 \
-**Playername + Rating:**
+**Spielername + Spielerwertung:**
 
 Dies wird verwendet, wenn du einen bestimmten Spieler kaufen möchtest. Kopiere in der EA WebApp den Namen des Spielers und füge ihn in das Eingabefeld Spielername in den FTB-Einstellungen ein.
-Das Rating muss das allgemeine Rating des Spielers sein, das du auch in der WebApp findest, wenn du den richtigen Namen nachschlägst (siehe Screenshot unten).
+Die Spielerwertung muss die allgemeine des Spielers sein, die du auch in der WebApp findest, wenn du den richtigen Namen nachschlägst (siehe Screenshot unten).
 
 ![image](https://github.com/exec85/FTB/assets/58392827/c6b40dc7-c3ee-40c5-9294-38dc3be88d13)
 
 \
-**Sell Price:**
+**Verkaufspreis:**
 
 Wenn Du Deinen eigenen Verkaufspreis festlegen möchtest, kannst Du ihn hier eingeben. FTB wird dann die gekauften Artikel zu genau diesem Preis verkaufen.
 
 \
-**Speed:**
+**Such-Tempo:**
 
 Du kannst zwischen den folgenden Geschwindigkeitsoptionen wählen (gib 1, 2 oder 3 ein):
 
 1 = langsam, 2 = normal, 3 = schnell
 
 \
-**Search Loops:**
+**Suchdurchläufe:**
 
 Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es anhält oder in die Pause geht.
 
@@ -109,12 +109,12 @@ Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es 
 
 ![image](https://github.com/exec85/FTB/assets/58392827/6bf57d04-7035-4e21-96cf-5840c03e9a66)
 
-**Bid Price:**
+**Gebotspreis:**
 
 Bitte gib den Preis ein, den du für alle Artikel bieten möchtest.
 
 \
-**Pages to scan:**
+**Zu durchsuchende Seiten:**
 
 Füge eine Zahl hinzu, die angibt, wie viele Suchergebnisseiten der automatische Bieter durchlaufen soll. Der Vorgang wird abgebrochen, wenn die verbleibende Auktionszeit der Karte mehr als 1 Stunde beträgt.
 
@@ -123,12 +123,12 @@ Füge eine Zahl hinzu, die angibt, wie viele Suchergebnisseiten der automatische
 ![image](https://github.com/exec85/FTB/assets/58392827/c2cdf25c-b7d7-49a2-be8e-101226698c98)
 
 
-**Include transfer list clearing and relisting in Auto-Buyer routine?:**
+**Verkaufte Karten löschen und erneut einstellen in Auto-Käufer-Routine einbeziehen?:**
 
 Wenn Sie dieses Kontrollkästchen aktivieren, verlässt FTB nach dem Zufallsprinzip das Suchfenster, wechselt in das Transferlistenfenster und löscht alle verkauften Artikel und listet alle unverkauften Artikel neu auf. Danach kehrt FTB zum Suchfenster zurück und beginnt erneut mit Ihrer Routine. Dies kann nützlich sein, wenn Sie sicherstellen wollen, dass Ihre Transferliste nicht voll wird, während Sie lange Sitzungen durchführen.
 
 \
-**Automatically calculate re-listing price:**
+**Automatisch den Wiedereinstellungspreis berechnen:**
 
 Wenn diese Option aktiviert ist, führt FTB eine Preisberechnung für jeden unverkauften Artikel durch, bevor er wieder eingestellt wird, um sicherzustellen, dass er den zu diesem Zeitpunkt besten Verkaufspreis hat. Bitte beachten Sie, dass dabei nicht geprüft wird, ob Sie einen Verlust im Vergleich zu Ihrem ursprünglichen Einkaufspreis machen. Überlegen Sie sich also gut, ob Sie dieses Kästchen aktivieren wollen.
 
