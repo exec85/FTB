@@ -10,7 +10,7 @@ Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension 
 - [Beispiel 1 - Allgemeine Filtersuche](#beispiel-1---allgemeine-filtersuche)
 - [Beispiel 2 - Spezifische Spielersuche](#beispiel-2---spezifische-spielersuche)
 - [Beispiel 3 - Suche nach Verbrauchsmaterial](#beispiel-3---suche-nach-verbrauchsmaterial)
-- [Beispiel 4 - Auto-Bieter](#beispiel-4---auto---bieter)
+- [Beispiel 4 - Auto-Bieter](#beispiel-4---auto-bieter)
 
 ## FUT Trade Buddy zu deinem Chrome-Browser hinzufügen
 
@@ -211,7 +211,7 @@ In diesem Fall möchte ich nicht, dass FTB den Verkaufspreis berechnet, also geb
 Wenn Sie möchten, können Sie natürlich auch hier FTB den besten Preis berechnen lassen.
 Generell empfehlen wir Ihnen, die Funktion "Automatischer Verkaufspreis" zu nutzen, da diese erkennt, wenn Sie mit Ihren Filtern einen Verlust machen würden und sofort stoppt. So schützt es auch Ihre Münzen.
 
-## Beispiel 4 - Auto-Bieter
+## Beispiel 4 - Auto Bieter
 
 <font size="2"> [Back to Index](#index)
 </font>
