@@ -105,9 +105,9 @@ Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es 
 
 Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es anhält oder in die Warteschleife geht. FTB wird nach der Pause mit deiner Routine neu starten. Wenn du dieses Feld leer lässt oder auf 0 setzt, dann hält FTB an, nachdem alle Suchschleifen beendet sind.o pause.
 
-### Autobidder
+### Auto Bieter
 
-![image](https://github.com/exec85/FTB/assets/58392827/01540ea3-f616-4fb1-808e-2d37596e04b1)
+![image](https://github.com/exec85/FTB/assets/58392827/83c85d83-0b4b-446d-b57e-8d14ee406c29)
 
 **Bid Price:**
 
