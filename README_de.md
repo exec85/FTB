@@ -5,12 +5,12 @@ Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension 
 ## Index
 
 - [FUT Trade Buddy zu deinem Chrome-Browser hinzufügen](#-FUT-Trade-Buddy-zu-deinem-Chrome-Browser-hinzufügen)
-- [Lizenz registrieren](#Lizenz-registrieren)
-- [FTB Einstellungen](#FTB-Einstellungen)
-- [Beispiel 1 - Allgemeine Filtersuche](##-Beispiel-1---Allgemeine-Filtersuche)
-- [Beispiel 2 - Spezifische Spielersuche](##-Beispiel-2---Spezifische-Spielersuche)
-- [Beispiel 3 - Suche nach Verbrauchsmaterial](##-Beispiel-3---Suche-nach-Verbrauchsmaterial)
-- [Beispiel 4 - Auto-Bieter](#-Beispiel-4---Auto-Bieter)
+- [Lizenz registrieren](#lizenz-registrieren)
+- [FTB Einstellungen](#ftb-einstellungen)
+- [Beispiel 1 - Allgemeine Filtersuche](##-beispiel-1---allgemeine-filtersuche)
+- [Beispiel 2 - Spezifische Spielersuche](##-beispiel-2---spezifische-spielersuche)
+- [Beispiel 3 - Suche nach Verbrauchsmaterial](##-beispiel-3---suche-nach-verbrauchsmaterial)
+- [Beispiel 4 - Auto-Bieter](#-beispiel-4---auto-bieter)
 
 ## FUT Trade Buddy zu deinem Chrome-Browser hinzufügen
 
