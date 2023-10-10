@@ -107,7 +107,7 @@ Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es 
 
 ### Auto Bieter
 
-![image](https://github.com/exec85/FTB/assets/58392827/83c85d83-0b4b-446d-b57e-8d14ee406c29)
+![image](https://github.com/exec85/FTB/assets/58392827/1303acd0-b028-44a0-97d2-9ad0a64a4369)
 
 **Bid Price:**
 
