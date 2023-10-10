@@ -107,7 +107,7 @@ Gib eine Zahl ein, wie viele Suchvorgänge das Tool durchführen soll, bevor es 
 
 ### Auto Bieter
 
-![image](https://github.com/exec85/FTB/assets/58392827/1303acd0-b028-44a0-97d2-9ad0a64a4369)
+![image](https://github.com/exec85/FTB/assets/58392827/6bf57d04-7035-4e21-96cf-5840c03e9a66)
 
 **Bid Price:**
 
@@ -120,7 +120,8 @@ Füge eine Zahl hinzu, die angibt, wie viele Suchergebnisseiten der automatische
 
 ### Transfer Liste
 
-![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
+![image](https://github.com/exec85/FTB/assets/58392827/c2cdf25c-b7d7-49a2-be8e-101226698c98)
+
 
 **Include transfer list clearing and relisting in Auto-Buyer routine?:**
 
