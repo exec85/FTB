@@ -63,7 +63,7 @@ Nehmen wir zum Beispiel an, du hast 1000 Münzen auf deinem Konto und du möchte
 
 ### Auto Käufer
 
-![image](https://github.com/exec85/FTB/assets/58392827/c6976809-11ce-43ad-b1da-0df492a7d0a3)
+![image](https://github.com/exec85/FTB/assets/58392827/39337eae-c090-4e0a-8bb6-b4986684537b)
 
 **Auto-calculate selling price:**
 
