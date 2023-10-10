@@ -6,7 +6,7 @@ Diese Installationsanleitung hilft dir, unsere FUT Trade Buddy Chrome Extension 
 
 - [FUT Trade Buddy zu deinem Chrome-Browser hinzufügen](#FUT-Trade-Buddy-zu-deinem-Chrome-Browser-hinzufügen)
 - [Lizenz registrieren](#lizenz-registrieren)
-- [FTB Einstellungen](#ftb-einstellungen)
+- [FTB Einstellungen](#einstellungen)
 - [Beispiel 1 - Allgemeine Filtersuche](#beispiel-1---allgemeine-filtersuche)
 - [Beispiel 2 - Spezifische Spielersuche](#beispiel-2---spezifische-spielersuche)
 - [Beispiel 3 - Suche nach Verbrauchsmaterial](#beispiel-3---suche-nach-verbrauchsmaterial)
@@ -49,7 +49,7 @@ Stelle außerdem sicher, dass die Synchronisierung aktiv ist, wie hier zu sehen:
 
 Nachdem deine Lizenz von exec85 oder ophidias aktiviert wurde, kannst du FTB verwenden.
 
-## Settings:
+## Einstellungen:
 
 <font size="2"> [Back to Index](#index)
 </font>
