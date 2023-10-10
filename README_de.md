@@ -56,7 +56,7 @@ Nachdem deine Lizenz von exec85 oder ophidias aktiviert wurde, kannst du FTB ver
 
 ### Münzen Grenze
 
-![image](https://github.com/exec85/FTB/assets/58392827/70c20894-acbc-4e01-9717-236da954642e)
+![image](https://github.com/exec85/FTB/assets/58392827/8eebd7aa-647d-47c8-b5da-fb7712c17430)
 
 Hier gibst du die Mindestanzahl an Münzen ein, die du während des Handels auf deinem Konto behalten möchtest.
 Nehmen wir zum Beispiel an, du hast 1000 Münzen auf deinem Konto und du möchtest, dass der FTB stoppt, wenn deine Münzen unter 800 Münzen fallen würden. Dann gibst du 800 in das Eingabefeld Coin Threshold ein.
