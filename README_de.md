@@ -23,7 +23,7 @@ Gehe in den Google Chrome Store und suche nach unserer Chrome-Erweiterung wie fo
 
 Danach klicke auf "Hinzufügen", um FTB zu deinem Chrome-Browser hinzuzufügen.
 
-![image](https://github.com/exec85/FTB/assets/58392827/462d08e0-a5c2-4fbd-a012-5b7b0a611e0a)
+![image](https://github.com/exec85/FTB/assets/58392827/769833ca-3d44-4f8d-9421-811802205f63)
 
 Klicke auf das kleine Puzzlesymbol in der oberen rechten Ecke deines Browsers und pinne es an, damit es immer sichtbar ist:
 
@@ -132,9 +132,10 @@ Wenn Sie dieses Kontrollkästchen aktivieren, verlässt FTB nach dem Zufallsprin
 
 Wenn diese Option aktiviert ist, führt FTB eine Preisberechnung für jeden unverkauften Artikel durch, bevor er wieder eingestellt wird, um sicherzustellen, dass er den zu diesem Zeitpunkt besten Verkaufspreis hat. Bitte beachten Sie, dass dabei nicht geprüft wird, ob Sie einen Verlust im Vergleich zu Ihrem ursprünglichen Einkaufspreis machen. Überlegen Sie sich also gut, ob Sie dieses Kästchen aktivieren wollen.
 
-### Notifications
+### Benachrichtigungen
 
-![image](https://github.com/exec85/FTB/assets/58392827/63f8bdcf-c408-4e39-bee2-029ac5dc3bb4)
+![image](https://github.com/exec85/FTB/assets/58392827/44b6990b-6f08-453d-a530-04a1610a7581)
+
 
 **Telegram:**
 
