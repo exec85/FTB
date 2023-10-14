@@ -55,6 +55,10 @@ After your license has been activated by exec85 or ophidias you are ready to use
 <font size="2"> [Back to Index](#index)
 </font>
 
+###
+
+The WebApp must be set to English language!
+
 ### Coin Threshold
 
 ![image](https://github.com/exec85/FTB/assets/58392827/70c20894-acbc-4e01-9717-236da954642e)
