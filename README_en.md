@@ -55,7 +55,7 @@ After your license has been activated by exec85 or ophidias you are ready to use
 <font size="2"> [Back to Index](#index)
 </font>
 
-### The WebApp must be set to English language!
+### The WebApp MUST be set to English language!
 
 ### Coin Threshold
 
