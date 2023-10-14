@@ -54,6 +54,8 @@ Nachdem deine Lizenz von exec85 oder ophidias aktiviert wurde, kannst du FTB ver
 <font size="2"> [Back to Index](#index)
 </font>
 
+### Die WebApp MUSS in Englisch eingestellt sein!
+
 ### Münzen Grenze
 
 ![image](https://github.com/exec85/FTB/assets/58392827/8eebd7aa-647d-47c8-b5da-fb7712c17430)
