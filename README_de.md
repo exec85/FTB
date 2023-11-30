@@ -122,7 +122,8 @@ Füge eine Zahl hinzu, die angibt, wie viele Suchergebnisseiten der automatische
 
 ### Transfer Liste
 
-![image](https://github.com/exec85/FTB/assets/58392827/c2cdf25c-b7d7-49a2-be8e-101226698c98)
+![image](https://github.com/exec85/FTB/assets/147206214/4eac3e29-3b56-4cb7-a037-31893fa0db0e)
+
 
 
 **Verkaufte Karten löschen und erneut einstellen in Auto-Käufer-Routine einbeziehen?:**
@@ -133,6 +134,13 @@ Wenn Sie dieses Kontrollkästchen aktivieren, verlässt FTB nach dem Zufallsprin
 **Automatisch den Wiedereinstellungspreis berechnen:**
 
 Wenn diese Option aktiviert ist, führt FTB eine Preisberechnung für jeden unverkauften Artikel durch, bevor er wieder eingestellt wird, um sicherzustellen, dass er den zu diesem Zeitpunkt besten Verkaufspreis hat. Bitte beachten Sie, dass dabei nicht geprüft wird, ob Sie einen Verlust im Vergleich zu Ihrem ursprünglichen Einkaufspreis machen. Überlegen Sie sich also gut, ob Sie dieses Kästchen aktivieren wollen.
+
+\
+**Verkaufte nicht löschen:**
+
+Wenn Sie dieses Kontrollkästchen aktivieren, werden die verkauften Karten nicht gelöscht, sodass sie den Preis, zu dem sie verkauft wurden, überprüfen und danach bei Bedarf manuell löschen können.
+
+\
 
 ### Benachrichtigungen
 
