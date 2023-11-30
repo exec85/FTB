@@ -140,7 +140,7 @@ Wenn diese Option aktiviert ist, führt FTB eine Preisberechnung für jeden unve
 
 Wenn Sie dieses Kontrollkästchen aktivieren, werden die verkauften Karten nicht gelöscht, sodass sie den Preis, zu dem sie verkauft wurden, überprüfen und danach bei Bedarf manuell löschen können.
 
-\
+
 
 ### Benachrichtigungen
 
