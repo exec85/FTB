@@ -122,7 +122,8 @@ Add a number indicating how many search result pages the autbidder should go thr
 
 ### Transfer List
 
-![image](https://github.com/exec85/FTB/assets/58392827/6489b24f-aff4-4cb6-bfe3-ac18f0be2dbd)
+![image](https://github.com/exec85/FTB/assets/147206214/e1d7e5a9-2e74-44fc-8681-d49e9b05d387)
+
 
 **Include transfer list clearing and relisting in Auto-Buyer routine?**
 
@@ -132,6 +133,11 @@ If you activate this check box FTB will randomly leave the search window, goes t
 **Automatically calculate re-listing price**
 
 If this is checked FTB will do a price calculation for each un-sold item before it gets relisted to make sure it has the best-selling price at that time. Please note that this will not check if you make a loss compared to your original buying price. So, take care and think about if you want to set this box.
+
+\
+**Do not delete sold items**
+
+If this is checked FTB will not clear sold items so you can check the price they were sold for and manually clear the list.
 
 ### Notifications
 
