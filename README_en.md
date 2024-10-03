@@ -43,8 +43,9 @@ Follow the steps you see when you click on the FTB Google Chrome extension butto
 
 ![image](https://github.com/exec85/FTB/assets/58392827/f368a160-977e-4744-a7af-bd68386cb0cf)
 
-In case you do not see HWID, Extension ID, IP and Email please double check if you are logged in with an email in your Google Chrome browser.
-Also make sure that "Synchronization" is active and then restart Chrome once:
+Important:
+In case you do not see HWID, Extension ID, IP and Email OR if a click on "Create Key" does not copy it to your clipbaord, please make sure that you are logged in with an email in your Google Chrome browser.
+Also make sure that "Synchronization" is active and then restart Chrome once.
 
 ![image](https://github.com/exec85/FTB/assets/58392827/e84ac3d0-6096-4c05-9583-2b834366e5f1)
 
